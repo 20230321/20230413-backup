@@ -1,0 +1,51 @@
+<mxfile host="app.diagrams.net" modified="2023-04-06T05:18:34.905Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="g57_oIbjbd6FKSgcz5Lt" version="21.1.1" type="device">
+  <diagram name="第 1 页" id="OaHgZp86S5LBCVMXa_-n">
+    <mxGraphModel dx="975" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Xnt-6vRTVfxn5Bqi4Ym6-4" value="步態訊號收集" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="220" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xnt-6vRTVfxn5Bqi4Ym6-5" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xnt-6vRTVfxn5Bqi4Ym6-4" target="Xnt-6vRTVfxn5Bqi4Ym6-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="210" as="sourcePoint" />
+            <mxPoint x="280" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xnt-6vRTVfxn5Bqi4Ym6-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xnt-6vRTVfxn5Bqi4Ym6-6" target="Xnt-6vRTVfxn5Bqi4Ym6-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xnt-6vRTVfxn5Bqi4Ym6-6" value="訊號前處理" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="400" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xnt-6vRTVfxn5Bqi4Ym6-7" value="步態特徵分割" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="600" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xnt-6vRTVfxn5Bqi4Ym6-8" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xnt-6vRTVfxn5Bqi4Ym6-7" target="Xnt-6vRTVfxn5Bqi4Ym6-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="410" as="sourcePoint" />
+            <mxPoint x="280" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xnt-6vRTVfxn5Bqi4Ym6-9" value="步態訊號分類" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="600" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xnt-6vRTVfxn5Bqi4Ym6-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="Xnt-6vRTVfxn5Bqi4Ym6-13" source="Xnt-6vRTVfxn5Bqi4Ym6-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="850" y="270" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xnt-6vRTVfxn5Bqi4Ym6-13" value="步態訊號運算" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="400" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xnt-6vRTVfxn5Bqi4Ym6-15" value="統計與分析" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="220" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xnt-6vRTVfxn5Bqi4Ym6-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xnt-6vRTVfxn5Bqi4Ym6-13" target="Xnt-6vRTVfxn5Bqi4Ym6-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

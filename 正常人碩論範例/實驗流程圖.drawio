@@ -1,0 +1,51 @@
+<mxfile host="app.diagrams.net" modified="2023-04-06T05:49:09.369Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" version="21.1.4" etag="Rte34MkecdU3aXdC_dod" type="device">
+  <diagram id="q4VRWnxfDJfh8rOWypz9" name="第 1 页">
+    <mxGraphModel dx="1651" dy="880" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4ZdUlscNkUwUR_9J6KA_-2" value="&lt;h1&gt;步態訊號收集&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry y="160" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4ZdUlscNkUwUR_9J6KA_-3" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4ZdUlscNkUwUR_9J6KA_-2" target="4ZdUlscNkUwUR_9J6KA_-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="280" as="sourcePoint" />
+            <mxPoint x="170" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4ZdUlscNkUwUR_9J6KA_-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4ZdUlscNkUwUR_9J6KA_-5" target="4ZdUlscNkUwUR_9J6KA_-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4ZdUlscNkUwUR_9J6KA_-5" value="&lt;h1&gt;訊號前處理&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="240" y="160" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4ZdUlscNkUwUR_9J6KA_-6" value="&lt;h1&gt;步態特徵分割&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="480" y="160" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4ZdUlscNkUwUR_9J6KA_-7" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4ZdUlscNkUwUR_9J6KA_-6" target="4ZdUlscNkUwUR_9J6KA_-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="480" as="sourcePoint" />
+            <mxPoint x="130" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4ZdUlscNkUwUR_9J6KA_-8" value="&lt;h1&gt;步態訊號分類&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="480" y="280" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4ZdUlscNkUwUR_9J6KA_-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="4ZdUlscNkUwUR_9J6KA_-8" target="4ZdUlscNkUwUR_9J6KA_-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="700" y="340" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4ZdUlscNkUwUR_9J6KA_-10" value="&lt;h1&gt;步態訊號運算&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="240" y="280" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4ZdUlscNkUwUR_9J6KA_-11" value="&lt;h1&gt;統計與分析&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry y="280" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4ZdUlscNkUwUR_9J6KA_-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4ZdUlscNkUwUR_9J6KA_-10" target="4ZdUlscNkUwUR_9J6KA_-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

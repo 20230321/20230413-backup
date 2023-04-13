@@ -1,0 +1,129 @@
+
+                #=============================================================================================     ==============================================     ==============================================          
+                    # 儲存並顯示圖表
+
+                
+                    # folder_name =pname
+                    # # 指定路徑
+                    # save_path = "C:/Users/al574/Desktop/李O貴2/一級疼痛"
+
+                    # # 檢查是否已經存在同名的資料夾
+
+                    # if os.path.exists(os.path.join(save_path, pname)):
+                    #     print("1")
+                    #     full_path = save_path+"/右腳X特徵"
+                    #     print(full_path)
+                        
+                    #     if os.path.exists(os.path.join(full_path,'123')):
+                    #             print(full_path)
+                    #             print("2")
+                    #     else:
+                    #         # 資料夾已經存在，直接使用
+                    #         print("3")
+                    # else:
+                    #     # 使用os模組建立新資料夾
+                    #     os.mkdir(os.path.join(save_path, pname))
+                    #     print("4")
+                    #     full_path = os.path.join(save_path, pname)
+                    #     print(full_path)
+                    #     if os.path.exists(os.path.join(full_path, '右腳')):
+                    #         print(full_path)
+                    #         print("5")
+                    #     else:
+                    #         # 資料夾已經存在，直接使用
+                    #         print("6")
+                #=============================================================================================     ==============================================     ==============================================   
+                    # if pname == '右腳X特徵':
+                    #     if  allname=="右腳X":
+                    #         save_path = 'C:/Users/al574/Desktop/李O貴2/一級疼痛/右腳特徵/右腳'
+                    #         file_name = f"{pname}({find}步)疼痛Pattern{allname}"
+                    #         full_path = os.path.join(save_path, file_name)
+                    #         plt.savefig(full_path, facecolor='white', bbox_inches='tight', pad_inches=0.1)
+                    #         print("儲存成功:", full_path)
+
+                    #     if  allname == '左腳X':
+                    #         save_path = 'C:/Users/al574/Desktop/李O貴2/一級疼痛/右腳特徵/左腳'
+                    #         file_name = f"{pname}({find}步)疼痛Pattern{allname}"
+                    #         full_path = os.path.join(save_path, file_name)
+                    #         plt.savefig(full_path, facecolor='white', bbox_inches='tight', pad_inches=0.1)
+                    #         print("儲存成功:", full_path)
+
+                    # if pname == '左腳X特徵':
+                    #     if  allname=="右腳X":
+                    #         save_path = 'C:/Users/al574/Desktop/李O貴2/一級疼痛/右腳特徵/右腳'
+                    #         file_name = f"{pname}({find}步)疼痛Pattern{allname}"
+                    #         full_path = os.path.join(save_path, file_name)
+                    #         plt.savefig(full_path, facecolor='white', bbox_inches='tight', pad_inches=0.1)
+                    #         print("儲存成功:", full_path)
+
+                    #     if  allname == '左腳X':
+                    #         save_path = 'C:/Users/al574/Desktop/李O貴2/一級疼痛/右腳特徵/左腳'
+                    #         file_name = f"{pname}({find}步)疼痛Pattern{allname}"
+                    #         full_path = os.path.join(save_path, file_name)
+                    #         plt.savefig(full_path, facecolor='white', bbox_inches='tight', pad_inches=0.1)
+                    #         print("儲存成功:", full_path)
+
+
+                    #=============================================================================================     ==============================================     ==============================================          
+    # 儲存並顯示圖表
+
+  
+    # folder_name =pname
+    # # 指定路徑
+    # save_path = "C:/Users/al574/Desktop/李O貴2/一級疼痛"
+
+    # # 檢查是否已經存在同名的資料夾
+
+    # if os.path.exists(os.path.join(save_path, pname)):
+    #     print("1")
+    #     full_path = save_path+"/右腳X特徵"
+    #     print(full_path)
+        
+    #     if os.path.exists(os.path.join(full_path,'123')):
+    #             print(full_path)
+    #             print("2")
+    #     else:
+    #         # 資料夾已經存在，直接使用
+    #         print("3")
+    # else:
+    #     # 使用os模組建立新資料夾
+    #     os.mkdir(os.path.join(save_path, pname))
+    #     print("4")
+    #     full_path = os.path.join(save_path, pname)
+    #     print(full_path)
+    #     if os.path.exists(os.path.join(full_path, '右腳')):
+    #         print(full_path)
+    #         print("5")
+    #     else:
+    #         # 資料夾已經存在，直接使用
+    #         print("6")
+#=============================================================================================     ==============================================     ==============================================   
+    # if pname == '右腳X特徵':
+    #     if  allname=="右腳X":
+    #         save_path = 'C:/Users/al574/Desktop/李O貴2/一級疼痛/右腳特徵/右腳'
+    #         file_name = f"{pname}({find}步)疼痛Pattern{allname}"
+    #         full_path = os.path.join(save_path, file_name)
+    #         plt.savefig(full_path, facecolor='white', bbox_inches='tight', pad_inches=0.1)
+    #         print("儲存成功:", full_path)
+
+    #     if  allname == '左腳X':
+    #         save_path = 'C:/Users/al574/Desktop/李O貴2/一級疼痛/右腳特徵/左腳'
+    #         file_name = f"{pname}({find}步)疼痛Pattern{allname}"
+    #         full_path = os.path.join(save_path, file_name)
+    #         plt.savefig(full_path, facecolor='white', bbox_inches='tight', pad_inches=0.1)
+    #         print("儲存成功:", full_path)
+
+    # if pname == '左腳X特徵':
+    #     if  allname=="右腳X":
+    #         save_path = 'C:/Users/al574/Desktop/李O貴2/一級疼痛/右腳特徵/右腳'
+    #         file_name = f"{pname}({find}步)疼痛Pattern{allname}"
+    #         full_path = os.path.join(save_path, file_name)
+    #         plt.savefig(full_path, facecolor='white', bbox_inches='tight', pad_inches=0.1)
+    #         print("儲存成功:", full_path)
+
+    #     if  allname == '左腳X':
+    #         save_path = 'C:/Users/al574/Desktop/李O貴2/一級疼痛/右腳特徵/左腳'
+    #         file_name = f"{pname}({find}步)疼痛Pattern{allname}"
+    #         full_path = os.path.join(save_path, file_name)
+    #         plt.savefig(full_path, facecolor='white', bbox_inches='tight', pad_inches=0.1)
+    #         print("儲存成功:", full_path)
