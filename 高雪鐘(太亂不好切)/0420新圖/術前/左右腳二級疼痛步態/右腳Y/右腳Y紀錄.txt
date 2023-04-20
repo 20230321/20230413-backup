@@ -1,0 +1,50 @@
+右腳Y listCorrelation find peaks 出現次數>4
+位置: 3153
+出現次數
+次數: 7
+
+右腳Y listCorrelation find peaks 出現次數>4
+位置: 3358
+出現次數
+次數: 9
+
+右腳Y listCorrelation find peaks 出現次數>4
+位置: 3460
+出現次數
+次數: 10
+
+右腳Y listCorrelation find peaks 出現次數>4
+位置: 3562
+出現次數
+次數: 6
+
+右腳Y listCorrelation find peaks 出現次數>4
+位置: 3567
+出現次數
+次數: 5
+
+右腳Y listCorrelation find peaks 出現次數>4
+位置: 3669
+出現次數
+次數: 5
+
+右腳Y listCorrelation find peaks 出現次數>4
+位置: 5289
+出現次數
+次數: 5
+
+右腳Y listCorrelation find peaks 出現次數>4
+位置: 6089
+出現次數
+次數: 6
+
+右腳Y listCorrelation find peaks 出現次數>4
+位置: 8555
+出現次數
+次數: 6
+
+右腳Y listCorrelation find peaks 出現次數>4
+位置: 21720
+出現次數
+次數: 5
+
