@@ -1,0 +1,420 @@
+右腳Y listCorrelation find peaks 出現次數>4
+位置: 139
+出現次數
+次數: 5
+
+右腳Y listCorrelation find peaks 出現次數>4
+位置: 240
+出現次數
+次數: 5
+
+右腳Y listCorrelation find peaks 出現次數>4
+位置: 340
+出現次數
+次數: 5
+
+右腳Y listCorrelation find peaks 出現次數>4
+位置: 342
+出現次數
+次數: 5
+
+右腳Y listCorrelation find peaks 出現次數>4
+位置: 345
+出現次數
+次數: 5
+
+右腳Y listCorrelation find peaks 出現次數>4
+位置: 444
+出現次數
+次數: 5
+
+右腳Y listCorrelation find peaks 出現次數>4
+位置: 636
+出現次數
+次數: 5
+
+右腳Y listCorrelation find peaks 出現次數>4
+位置: 1027
+出現次數
+次數: 5
+
+右腳Y listCorrelation find peaks 出現次數>4
+位置: 1129
+出現次數
+次數: 5
+
+右腳Y listCorrelation find peaks 出現次數>4
+位置: 1231
+出現次數
+次數: 5
+
+右腳Y listCorrelation find peaks 出現次數>4
+位置: 1623
+出現次數
+次數: 7
+
+右腳Y listCorrelation find peaks 出現次數>4
+位置: 1725
+出現次數
+次數: 7
+
+右腳Y listCorrelation find peaks 出現次數>4
+位置: 1828
+出現次數
+次數: 7
+
+右腳Y listCorrelation find peaks 出現次數>4
+位置: 1930
+出現次數
+次數: 5
+
+右腳Y listCorrelation find peaks 出現次數>4
+位置: 2842
+出現次數
+次數: 5
+
+右腳Y listCorrelation find peaks 出現次數>4
+位置: 2941
+出現次數
+次數: 5
+
+右腳Y listCorrelation find peaks 出現次數>4
+位置: 2944
+出現次數
+次數: 5
+
+右腳Y listCorrelation find peaks 出現次數>4
+位置: 3043
+出現次數
+次數: 5
+
+右腳Y listCorrelation find peaks 出現次數>4
+位置: 3138
+出現次數
+次數: 6
+
+右腳Y listCorrelation find peaks 出現次數>4
+位置: 3145
+出現次數
+次數: 5
+
+右腳Y listCorrelation find peaks 出現次數>4
+位置: 3238
+出現次數
+次數: 5
+
+右腳Y listCorrelation find peaks 出現次數>4
+位置: 3338
+出現次數
+次數: 5
+
+右腳Y listCorrelation find peaks 出現次數>4
+位置: 3340
+出現次數
+次數: 5
+
+右腳Y listCorrelation find peaks 出現次數>4
+位置: 3434
+出現次數
+次數: 5
+
+右腳Y listCorrelation find peaks 出現次數>4
+位置: 3535
+出現次數
+次數: 5
+
+右腳Y listCorrelation find peaks 出現次數>4
+位置: 3536
+出現次數
+次數: 5
+
+右腳Y listCorrelation find peaks 出現次數>4
+位置: 3638
+出現次數
+次數: 5
+
+右腳Y listCorrelation find peaks 出現次數>4
+位置: 4314
+出現次數
+次數: 5
+
+右腳Y listCorrelation find peaks 出現次數>4
+位置: 4413
+出現次數
+次數: 5
+
+右腳Y listCorrelation find peaks 出現次數>4
+位置: 4510
+出現次數
+次數: 6
+
+右腳Y listCorrelation find peaks 出現次數>4
+位置: 6040
+出現次數
+次數: 5
+
+右腳Y listCorrelation find peaks 出現次數>4
+位置: 6142
+出現次數
+次數: 5
+
+右腳Y listCorrelation find peaks 出現次數>4
+位置: 6330
+出現次數
+次數: 5
+
+右腳Y listCorrelation find peaks 出現次數>4
+位置: 6336
+出現次數
+次數: 5
+
+右腳Y listCorrelation find peaks 出現次數>4
+位置: 6432
+出現次數
+次數: 5
+
+右腳Y listCorrelation find peaks 出現次數>4
+位置: 6534
+出現次數
+次數: 5
+
+右腳Y listCorrelation find peaks 出現次數>4
+位置: 6722
+出現次數
+次數: 5
+
+右腳Y listCorrelation find peaks 出現次數>4
+位置: 6819
+出現次數
+次數: 5
+
+右腳Y listCorrelation find peaks 出現次數>4
+位置: 6824
+出現次數
+次數: 5
+
+右腳Y listCorrelation find peaks 出現次數>4
+位置: 6921
+出現次數
+次數: 10
+
+右腳Y listCorrelation find peaks 出現次數>4
+位置: 7023
+出現次數
+次數: 8
+
+右腳Y listCorrelation find peaks 出現次數>4
+位置: 7122
+出現次數
+次數: 6
+
+右腳Y listCorrelation find peaks 出現次數>4
+位置: 7222
+出現次數
+次數: 6
+
+右腳Y listCorrelation find peaks 出現次數>4
+位置: 11353
+出現次數
+次數: 6
+
+右腳Y listCorrelation find peaks 出現次數>4
+位置: 11549
+出現次數
+次數: 9
+
+右腳Y listCorrelation find peaks 出現次數>4
+位置: 11648
+出現次數
+次數: 10
+
+右腳Y listCorrelation find peaks 出現次數>4
+位置: 11651
+出現次數
+次數: 5
+
+右腳Y listCorrelation find peaks 出現次數>4
+位置: 11746
+出現次數
+次數: 5
+
+右腳Y listCorrelation find peaks 出現次數>4
+位置: 11750
+出現次數
+次數: 9
+
+右腳Y listCorrelation find peaks 出現次數>4
+位置: 11848
+出現次數
+次數: 5
+
+右腳Y listCorrelation find peaks 出現次數>4
+位置: 11945
+出現次數
+次數: 6
+
+右腳Y listCorrelation find peaks 出現次數>4
+位置: 12047
+出現次數
+次數: 6
+
+右腳Y listCorrelation find peaks 出現次數>4
+位置: 12145
+出現次數
+次數: 10
+
+右腳Y listCorrelation find peaks 出現次數>4
+位置: 12244
+出現次數
+次數: 7
+
+右腳Y listCorrelation find peaks 出現次數>4
+位置: 12247
+出現次數
+次數: 5
+
+右腳Y listCorrelation find peaks 出現次數>4
+位置: 12346
+出現次數
+次數: 7
+
+右腳Y listCorrelation find peaks 出現次數>4
+位置: 12444
+出現次數
+次數: 6
+
+右腳Y listCorrelation find peaks 出現次數>4
+位置: 12545
+出現次數
+次數: 6
+
+右腳Y listCorrelation find peaks 出現次數>4
+位置: 12648
+出現次數
+次數: 5
+
+右腳Y listCorrelation find peaks 出現次數>4
+位置: 12740
+出現次數
+次數: 5
+
+右腳Y listCorrelation find peaks 出現次數>4
+位置: 12842
+出現次數
+次數: 8
+
+右腳Y listCorrelation find peaks 出現次數>4
+位置: 12944
+出現次數
+次數: 7
+
+右腳Y listCorrelation find peaks 出現次數>4
+位置: 13043
+出現次數
+次數: 5
+
+右腳Y listCorrelation find peaks 出現次數>4
+位置: 13046
+出現次數
+次數: 5
+
+右腳Y listCorrelation find peaks 出現次數>4
+位置: 13145
+出現次數
+次數: 6
+
+右腳Y listCorrelation find peaks 出現次數>4
+位置: 13240
+出現次數
+次數: 5
+
+右腳Y listCorrelation find peaks 出現次數>4
+位置: 13342
+出現次數
+次數: 5
+
+右腳Y listCorrelation find peaks 出現次數>4
+位置: 13965
+出現次數
+次數: 5
+
+右腳Y listCorrelation find peaks 出現次數>4
+位置: 14063
+出現次數
+次數: 5
+
+右腳Y listCorrelation find peaks 出現次數>4
+位置: 14067
+出現次數
+次數: 5
+
+右腳Y listCorrelation find peaks 出現次數>4
+位置: 14457
+出現次數
+次數: 5
+
+右腳Y listCorrelation find peaks 出現次數>4
+位置: 14652
+出現次數
+次數: 5
+
+右腳Y listCorrelation find peaks 出現次數>4
+位置: 14747
+出現次數
+次數: 5
+
+右腳Y listCorrelation find peaks 出現次數>4
+位置: 14848
+出現次數
+次數: 7
+
+右腳Y listCorrelation find peaks 出現次數>4
+位置: 15047
+出現次數
+次數: 5
+
+右腳Y listCorrelation find peaks 出現次數>4
+位置: 15863
+出現次數
+次數: 5
+
+右腳Y listCorrelation find peaks 出現次數>4
+位置: 15865
+出現次數
+次數: 5
+
+右腳Y listCorrelation find peaks 出現次數>4
+位置: 30697
+出現次數
+次數: 6
+
+右腳Y listCorrelation find peaks 出現次數>4
+位置: 32150
+出現次數
+次數: 5
+
+右腳Y listCorrelation find peaks 出現次數>4
+位置: 32246
+出現次數
+次數: 5
+
+右腳Y listCorrelation find peaks 出現次數>4
+位置: 32343
+出現次數
+次數: 6
+
+右腳Y listCorrelation find peaks 出現次數>4
+位置: 32442
+出現次數
+次數: 5
+
+右腳Y listCorrelation find peaks 出現次數>4
+位置: 32445
+出現次數
+次數: 5
+
+右腳Y listCorrelation find peaks 出現次數>4
+位置: 32544
+出現次數
+次數: 8
+
