@@ -1,0 +1,24 @@
+右腳Z listCorrelation find peaks 出現次數5次以上
+位置: 37905出現次數: 5
+最後出現特徵: 14
+
+右腳Z listCorrelation find peaks 出現次數5次以上
+位置: 38004出現次數: 5
+最後出現特徵: 9
+
+右腳Z listCorrelation find peaks 出現次數5次以上
+位置: 38096出現次數: 5
+最後出現特徵: 9
+
+右腳Z listCorrelation find peaks 出現次數5次以上
+位置: 38103出現次數: 5
+最後出現特徵: 4
+
+右腳Z listCorrelation find peaks 出現次數5次以上
+位置: 38195出現次數: 5
+最後出現特徵: 4
+
+右腳Z listCorrelation find peaks 出現次數5次以上
+位置: 43406出現次數: 5
+最後出現特徵: 9
+
